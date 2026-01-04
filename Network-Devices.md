@@ -57,3 +57,6 @@
 ping github.com
 ```
 - Observe TTL / replies
+
+
+## [[Hosts]]
